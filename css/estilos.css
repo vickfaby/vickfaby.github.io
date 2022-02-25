@@ -42,13 +42,11 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
     font-size: 0.8em;
 }
 
-<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
 }
-=======
 #footer
 {
     background: #777;
@@ -56,4 +54,3 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> 986b3d77b6d2c04d7c6af5eccdca050da8c46af7
